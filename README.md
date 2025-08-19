@@ -366,7 +366,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or run into issues, please:
 - Check the [Issues](https://github.com/naveedr12/MusicPlayerusingJavaScript) page
 - Create a new issue if your problem isn't already listed
-- Reach out on [Twitter](https://twitter.com/yourusername)
+
 
 ---
 
